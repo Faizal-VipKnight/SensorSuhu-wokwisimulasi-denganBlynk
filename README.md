@@ -19,3 +19,7 @@ untuk menjalankan project ini kalian harus membuat akun blynk terlebih dahulu da
 jangan lupa tambah library yang sesuai, untuk project ini library nya yaitu blynk, dallastemperatur, liquidcystal_i2c
 
 tambahan, perlu menggunakan resistor 4.7 K ohm
+
+![Screenshot 2025-01-03 061323](https://github.com/user-attachments/assets/b8acb9f4-711e-46c9-8327-3d6f4eb06c12)
+
+untuk tampilan sederhana di blynk seperti itu, nilainya akan bergerak sesuai dari simulasi wokwi nya.
