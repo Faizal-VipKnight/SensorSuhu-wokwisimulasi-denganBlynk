@@ -12,7 +12,10 @@ lcd
 buzzer
 esp32
 jumper
+resistor
 
 untuk menjalankan project ini kalian harus membuat akun blynk terlebih dahulu dan membuat virtual pin, lalu konfigurasi di web dashborad blynk/ aplikasi setelah itu save dan buat add device, untuk ini saya sarankan memakai template dari blynk, setelah itu akan keluar token, id, auth, dll, copy ini lalu masukkan kedalam kode
 
 jangan lupa tambah library yang sesuai, untuk project ini library nya yaitu blynk, dallastemperatur, liquidcystal_i2c
+
+tambahan, perlu menggunakan resistor 4.7 K ohm
